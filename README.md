@@ -19,6 +19,12 @@ Run the scripts for each metric:
 
 
 ## File Structure
-- **data/**: Input data files
-- **data/results**: Output data files
-- **script/**: Scripts for metric calculations
+
+Big5_SAI_TAI_NASATLX/
+├── data/                # Input XLSX files
+├── results/             # Output results
+├── script/              # Scripts for metric calculations
+├── README.md            # Documentation for the repository
+├── requirements.txt     # Python dependencies
+├── .gitignore           # Ignored files
+
