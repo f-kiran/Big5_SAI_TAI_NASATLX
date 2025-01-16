@@ -12,9 +12,14 @@ This repository calculates psychological and workload metrics (Big-5, SAI, TAI, 
 ## Usage
 Run the scripts for each metric:
 
+`cd script/`
+
 `python script/big5.py`
+
 `python script/sai.py`
+
 `python script/tai.py`
+
 `python script/nasa_tlx.py`
 
 
